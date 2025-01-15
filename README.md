@@ -1,9 +1,10 @@
 # Project ANDA by Meghnad S.
 This is a public repository to list all the resources, documents, guides and whatever was used and learnt from Project Anda by Meghnad S.
+
 Meghnad S. is a content creator who creates long form content on society, politics and public policy. He has a YouTube channel named [Meghnerd](https://www.youtube.com/@meghnerd) where you can find all his videos. 
 
 ## What is Project Anda?
-On *10 Jan 2025* Meghnad announced on his youtube page that he was running for the Delhi state elections, on in his words "glorified municipal corporation Delhi?" as an independent candidate. 
+On *10 Jan 2025* Meghnad announced on his youtube page that he was running for the Delhi state elections, or in his words "glorified municipal corporation Delhi?" as an independent candidate. 
 Project Anda is basically the name of his political experiment - to see, or really *show* that a commom citizen -who breathes the  same polluted air, the same polluted water, travels in the same traffic congested city etc can go and get his name on the ballot. 
 In the process, he wants to document his entire journey- from getting the nomination form from the District Magistrate's office to filing it, from running a campaign with volunteers to making a manifesto based on policies for the public. The reason being that 'if there are tutorials for lots of things, why not there be a tutorial for becoming a elected public representative?'. The entire process will help any person who in the future wishes to contest his/her/their local elections as an independent.
 
