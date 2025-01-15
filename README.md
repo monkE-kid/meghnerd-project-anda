@@ -18,7 +18,7 @@ A repository is basically a collection of things. Those things can be code, imag
 A repository is like a folder on your computer - it has various files and also other folders. Similary, this repo has files and folders for various things. You can navigate the repo like you would navigate a normal file system. 
 - Click on a folder to go into it
 - Click on a file to open it, you can download that file by clicking the download option on the top right.
-- 
+ 
 **How to contribute?**
 Basically, whatever we write here, we write it in a Markdown format. You must have seen the .md extenstion to the README file as 'README.md', that .md stands for the markdown extension. Its basically a simple text file format - like .txt. Writing here is like writing a document in Word, but much easier.
 You can learn more on how to write with markdown from the web and resources that I'll attach here later, but first let me show you some basics.
@@ -35,7 +35,7 @@ You can learn more on how to write with markdown from the web and resources that
 - You can **bold** text by placing it within two star symbols like  \*\***MeghNERD**\*\*  OR two undersscores \_\___MeghNERD__\_\_
   and you can *italicize* by placing them within single star symbols or single underscores\_  \_ like \**MeghNERD*\*. Remember,
   there should be no spaces between the star symbol and your character.
-  Further you can also ***bold-italicize*** by using three starts like this: \*\*\****NerdArmy***/*/*/*
+  Further you can also ***bold-italicize*** by using three starts like this: \*\*\****NerdArmy***\*\*\*
 - You can create nested **Bold and _italic_ by** using underscores with a bold block like \*\***Bold and \__italic_\_**\*\*
 - You can underline by using \<ins><ins>Underlined text</ins>\</ins>
 - You can create hyperlinks, i.e. link to a website or video by using \[insert topic name here\]\(insert the link here\). Here is a link to Meghnads channel - [Meghnerd](https://www.youtube.com/@meghnerd). This is written as: \[Meghnerd\]\(https://www.youtube.com/@meghnerd \).
