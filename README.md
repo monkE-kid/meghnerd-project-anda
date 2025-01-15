@@ -34,6 +34,17 @@ You can learn more on how to write with markdown from the web and more resources
 
 You can learn more commands, just by viewing this easy to read and use [document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on how to write in markdown. I'll keep updating and simplifying this guide as I get more and more info and ***TIME!!*** I have my first semester exams (yes I am a student!) going on so I am going as much as I possibly can from my side. This is just my very small, little but very passionate, help and contribution to the huge courage of Mr. Meghnad to fight the elections. 
 
+- You can edit a file by clicking the edit 'pen' option on the top right of the pane the file is open in. After editing click the
+  'commit changes' button at the top right of the pane. The **commit changes** button is basically aksing you if you wanna change
+  save your changes. The naming and description box you see are basically the name of the change and the description.
+  *Why is it like this?* Since its a public repository, asy changes you make is tracked so that it can be reversed easily. So
+  everytime you *commit a change* it enters the change into a a **log** or **register**. It's done so its easy to track changes
+  and undo them if anything goes wrong. Its recommended that you give a short name to your change, and give s one line description
+  of what kind of change you made - i.e. updated something, added something etc.
+  **Example:** say you  update this README file and correct soem spelling errors, name your change as *Updated readme file* with
+  the description as **checked for spelling errors and corrected some of them**. This is a good pactice beacuse if anybody spams
+  or makes trouble with the repo, we can simply go back to the last major change and all edits that were done after that change
+  will be removed.
 
 I hope we can together create a good public repository for project Anda, ans make sure it helps anyone in the future who wants to contest elections as an independent.
 
