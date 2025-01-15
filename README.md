@@ -17,10 +17,10 @@ Basically, whatever we write here, we write it in a Markdown format. You must ha
 You can learn more on how to write with markdown from the web and more resources that I'll attach here later, but firt let me show you some basics.
 
 - You can give headings by '#' like
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
+\# Heading 1
+\#\# Heading 2
+\#\#\# Heading 3
+\#\\#\#\# Heading 4
 - You can **bold** text by placing it within two star symbols like  \*\*hello\*\* and you can *italicize* by plaing them within single star symbols like \*Hello\*. Remember, there should be no spaces between the star symbol and your character.
 - You can create hyperlinks, i.e. link to a website or video by using \[insert topic name here\]\(insert the link here\). Here is a link to Meghnads channel - [Meghnerd](https://www.youtube.com/@meghnerd).
 
