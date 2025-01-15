@@ -17,7 +17,7 @@ Basically, whatever we write here, we write it in a Markdown format. You must ha
 You can learn more on how to write with markdown from the web and more resources that I'll attach here later, but firt let me show you some basics.
 
 - You can give headings by '#' like
-\# Heading 1 #
+\# Heading 1
 # Heading 1
 \#\# Heading 2
 ## Heading 2
