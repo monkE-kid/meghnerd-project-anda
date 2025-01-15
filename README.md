@@ -12,6 +12,10 @@ This public repository serves as a single point of information for project Anda 
 You don't need to know much about Github to write, or contribute on this repository. Even I don't know much about this, but its an honest effort to learn and tackle the challenges.
 **What is a repository?**
 A repository is basically a collection of things. Those things can be code, images, videos, books documents etc. This is repository. We call repositories as 'repo' in short.
+
+A repository is like a folder on your computer - it has various files and also other folders. Similary, this repo has files and folders for various things. YOu can navigate the repo like you would navigate a normal file system. 
+- Click on a folder to go into it
+- Click on a file to open it, you can download that file by clicking the download option on the top right.
 **How to contribute?**
 Basically, whatever we write here, we write it in a Markdown format. You must have seen the .md extenstion to the README file as 'README.md', that .md stands for te markdown extension. Its basically a file format - like .txt. or .jpg or.png or .apk etc.
 You can learn more on how to write with markdown from the web and more resources that I'll attach here later, but firt let me show you some basics.
@@ -29,5 +33,8 @@ You can learn more on how to write with markdown from the web and more resources
 - You can create hyperlinks, i.e. link to a website or video by using \[insert topic name here\]\(insert the link here\). Here is a link to Meghnads channel - [Meghnerd](https://www.youtube.com/@meghnerd). This is written as: \[Meghnerd\]\(https://www.youtube.com/@meghnerd \).
 
 You can learn more commands, just by viewing this easy to read and use [document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on how to write in markdown. I'll keep updating and simplifying this guide as I get more and more info and ***TIME!!*** I have my first semester exams (yes I am a student!) going on so I am going as much as I possibly can from my side. This is just my very small, little but very passionate, help and contribution to the huge courage of Mr. Meghnad to fight the elections. 
+
+
+I hope we can together create a good public repository for project Anda, ans make sure it helps anyone in the future who wants to contest elections as an independent.
 
 *THANKS!!* :\)
