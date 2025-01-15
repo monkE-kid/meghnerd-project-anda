@@ -26,7 +26,7 @@ You can learn more on how to write with markdown from the web and more resources
 \#\#\#\# Heading 4
 #### Heading 4
 - You can **bold** text by placing it within two star symbols like  \*\***hello**\*\* and you can *italicize* by plaing them within single star symbols like \**Hello*\*. Remember, there should be no spaces between the star symbol and your character.
-- You can create hyperlinks, i.e. link to a website or video by using \[insert topic name here\]\(insert the link here\). Here is a link to Meghnads channel - [Meghnerd](https://www.youtube.com/@meghnerd). This is written as: \[Meghnerd\]\(https://www.youtube.com/@meghnerd\).
+- You can create hyperlinks, i.e. link to a website or video by using \[insert topic name here\]\(insert the link here\). Here is a link to Meghnads channel - [Meghnerd](https://www.youtube.com/@meghnerd). This is written as: \[Meghnerd\]\(https://www.youtube.com/@meghnerd \).
 
 You can learn more commands, just by viewing this easy to read and use [document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on how to write in markdown. I'll keep updating and simplifying this guide as I get more and more info and ***TIME!!*** I have my first semester exams (yes I am a student!) going on so I am going as much as I possibly can from my side. This is just my very small, little but very passionate, help and contribution to the huge courage of Mr. Meghnad to fight the elections. 
 
