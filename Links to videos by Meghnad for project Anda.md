@@ -3,4 +3,5 @@
 2. Live video addressing QnA's on Project Anda - [Delhi Elections are going to be fun!| AMA Stream | PROJECT ANDA](https://www.youtube.com/live/5nH3t2jlGP8?si=mhKWMpp4zNY1lmFn)
 3. Choosing and updaing the community on how to help him choose an election symbol - [youtube is choosing my election symbol | PROJECT ANDA](https://www.youtube.com/watch?v=UL_9KhGNc6I)
 4. Another live stream for election discussion and call in radio - [Sunday Night Election Party! | Call-in Radio | PROJECT ANDA](https://www.youtube.com/live/br00H2y79CQ?si=2LnazqO6jeogTDHQ)
-
+5. His livestream after his nomination was accepted [India's first YOUTUBER NETA?! | Project Anda](https://www.youtube.com/live/1P5u6WUxRUA?si=Pd7SnW-njqkfGe-8)
+6. His nomination filing experience [how to become a neta in 10 days | PROJECT ANDA ](https://www.youtube.com/watch?v=Kfaddn678-4)
